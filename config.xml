@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.oblivio.ghostpixels"
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Ghost Pixels</name>
+	<icon src="images/ghost7.png"/>
+    <description>
+        Ghost Pixels is a JavaScript steganography tool that allows users to hide a message into the pixels of a random image. 
+    </description>
+
+    <author href="http://www.fabian-valle.com/" email="">
+        Fabian Valle
+    </author>
+<access origin="*" />
+
+<gap:plugin name="cordova-plugin-canvas2image" source="npm" />
+
+<preference name="permissions" value="none"/>
+</widget>
+
+
