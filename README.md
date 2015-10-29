@@ -4,7 +4,8 @@ JavaScript Steganography
 GhostPixels 0.0.1 Alpha - 
 
 ==== THIS IS ALPHA SOFTWARE - USE AT YOUR OWN RISKS ====
-------------------------------------------------------------------------------
+
+
 GhostPixels is a JavaScript steganography tool. 
 
 Image steganography is an effective way to exchange hidden messages without raising suspicion. It works by encoding the message into the color values of the image's pixels.
@@ -12,7 +13,8 @@ Image steganography is an effective way to exchange hidden messages without rais
 GhostPixels is open-source software released under the GNU GPL V3 license. 
 
 === ORIGINS ===
-------------------------------------------------------------------------------
+
+
 Forked from PixelJihad, another JavaScript steganography tool.
 PixelJihad is public-domain software.
 https://github.com/oakes/PixelJihad
