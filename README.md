@@ -1,9 +1,7 @@
 # GhostPixels
 JavaScript Steganography
 
-GhostPixels 0.0.1 Alpha - 
-
-==== THIS IS ALPHA SOFTWARE - USE AT YOUR OWN RISKS ====
+GhostPixels v1.0 | genesis - 
 
 
 GhostPixels is a JavaScript steganography tool. 
